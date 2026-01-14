@@ -1,6 +1,7 @@
 # Cutlet
 
-A fast and lightweight video trimming app built for speed and simplicity. Cutlet does one thing perfectly: trim videos fast.
+A fast and lightweight video trimming app built for speed and simplicity. Cutlet does one thing perfectly: 
+trim videos fast.
 
 ## Features
 
